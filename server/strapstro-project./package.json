@@ -1,5 +1,5 @@
 {
-  "name": "my-strapstro-project",
+  "name": "strapstro-project",
   "version": "0.1.0",
   "private": true,
   "description": "A Strapi application",
@@ -26,6 +26,6 @@
     "npm": ">=6.0.0"
   },
   "strapi": {
-    "uuid": "dcb6b522-b8d7-42b9-8c8e-7703b991a7cc"
+    "uuid": "99b75dac-aa12-4b8a-8f8d-66bd5a2fddd3"
   }
 }
